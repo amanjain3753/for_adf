@@ -8,8 +8,8 @@
 		"annotations": [],
 		"type": "AzureDatabricksDeltaLakeDataset",
 		"typeProperties": {
-			"database": "silver",
-			"table": "sales"
+			"database": "",
+			"table": ""
 		},
 		"schema": []
 	}
