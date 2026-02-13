@@ -1,0 +1,9 @@
+{
+	"name": "testaays",
+	"location": "uaenorth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "fe56538c-cc0e-45c0-aedf-485eacc0ccc0",
+		"tenantId": "1490b17d-5dc9-4cbf-aeba-a2e854f521b8"
+	}
+}
